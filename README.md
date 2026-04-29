@@ -51,10 +51,21 @@ interactive Power BI dashboard.
 5. Votes vs Rating Relationship (Scatter Plot with Trend Line)
 
 ## Dashboard Pages
-1. Overview — Project summary and key findings
-2. Cuisine & Location Analysis — Top cuisines, localities and city distribution
-3. Rating & Delivery Analysis — Price range, delivery and table booking impact
-4. Votes & Insights — Most voted restaurants, cuisines and rating distribution
+### 1. Overview — Project summary and key findings
+
+![Overview](Dashboard_Screenshots/overview.png)
+
+### 2. Cuisine & Location Analysis — Top cuisines, localities and city distribution
+
+![Cuisine Analysis](Dashboard_Screenshots/cuisine_location.png)
+
+### 3. Rating & Delivery Analysis — Price range, delivery and table booking impact
+
+![Rating Analysis](Dashboard_Screenshots/rating_delivery.png)
+
+### 4. Votes & Insights — Most voted restaurants, cuisines and rating distribution
+
+![Votes Insights](Dashboard_Screenshots/votes_insights.png)
 
 ## Author
 **Yogesh Kumar Pal**
